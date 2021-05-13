@@ -1,0 +1,4 @@
+#Tue May 11 16:18:39 YAKT 2021
+base.0=/home/jack/AndroidStudioProjects/Tip Calculator/Tip Calculator/task/build/intermediates/dex/release/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
